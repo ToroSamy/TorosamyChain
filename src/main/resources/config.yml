@@ -1,0 +1,57 @@
+farming: 
+  enable: true
+  permission: torosamychain.farming
+  disable-world: []
+  sneaking: false
+mining:
+  enable: true
+  permission: torosamychain.mining
+  disable-world: []
+  sneaking: false
+  
+logging:
+  enable: true
+  permission: torosamychain.logging
+  disable-world: []
+  sneaking: false
+  
+plant:
+  enable: true
+  permission: torosamychain.plant
+  disable-world: []
+  sneaking: false
+
+block-break-permission-prefix: torosamychain.block
+use-tool-permission-prefix: torosamychain.tool
+plant-seed-permission-prefix: torosamychain.seed
+
+special-trees:
+  - "MANGROVE_WOOD"
+  - "MANGROVE_LOG"
+  - "MANGROVE_ROOTS"
+  - "WARPED_STEM"
+  - "CRIMSON_STEM"
+
+seed:
+  - "WHEAT_SEEDS"
+  - "CARROT"
+  - "POTATO"
+  - "BEETROOT_SEEDS"
+
+stone:
+  - "STONE"
+  - "DEEPSLATE"
+  - "NETHERRACK"
+  - "COBBLED_DEEPSLATE"
+  - "GRAVEL"
+  - "BLACKSTONE"
+  - "GRANITE"
+  - "DIORITE"
+  - "ANDESITE"
+  - "CALCITE"
+  - "TUFF"
+  - "DRIPSTONE_BLOCK"
+  - "DIRT"
+  - "MAGMA_BLOCK"
+  - "BASALT"
+  - "BEDROCK"

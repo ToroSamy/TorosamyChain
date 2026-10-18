@@ -1,0 +1,8 @@
+name: TorosamyChain
+main: net.torosamy.torosamyChain.TorosamyChain
+version: '${project.version}'
+author: '${plugin.yml.author}'
+website: '${plugin.yml.website}'
+api-version: '${plugin.yml.api}'
+depend:
+  - TorosamyCore
